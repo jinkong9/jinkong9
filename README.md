@@ -17,17 +17,25 @@
 ---
 
 ## 📌 Projects
-- 🏥 병원 대기 시간 예측 서비스
-- 🤖 감정 관리 AI 앱 (iOS)
-- 🚁 도로 균열 탐지 드론 AI 시스템
+
+### 🏥 병원 대기 시간 예측 서비스
+- ⏱ 대기 시간 예측 및 알림 제공
+- 🔗 https://github.com/jinkon9/FORHOS.git
+
+### 🤖 비인기 지역 명소 및 축제 알림 서비스
+- 💬 AI 기반 지역 명소 및 축제 알림
+- 🔗 https://github.com/jinkon9/mental.git
+
+### 🚁 랜덤 주제 기반 일기 시스템
+- 🧠 매일 다른 주제로 일기 작성 서비스
+- 🔗 https://github.com/jinkon9/Capston.git
 
 ---
 
 ## 🧩 Algorithm
-- BOJ / SWEA / DFS / BFS / Union-Find / Topology
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbg08167)](https://solved.ac/profile/SOLVED_ID)
+![mazandi](http://mazandi.herokuapp.com/api?handle=SOLVED_ID&theme=warm)
+- BOJ / SWEA  
 
 ---
 
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact)
