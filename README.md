@@ -47,7 +47,6 @@
 
 ## 🧩 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbg08167)](https://solved.ac/profile/kbg08167)
-![mazandi](http://mazandi.herokuapp.com/api?handle=kbg08167&theme=dark)
 - BOJ / SWEA  
 
 ---
