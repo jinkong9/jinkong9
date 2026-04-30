@@ -6,6 +6,8 @@
 📱 웹 & 모바일(Expo) 프로젝트 진행 중  
 🧠 알고리즘 / 자료구조 꾸준히 학습
 
+🔗 [포트폴리오 Notion](https://www.notion.so/28a2d5c639da80ef9e45f7b721a4bc9e)
+
 ---
 
 ## 🛠 Tech Stack
