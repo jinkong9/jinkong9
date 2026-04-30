@@ -31,15 +31,15 @@
 
 ## 📌 Projects
 
-### 🏥 병원 대기 시간 예측 서비스
+### 🏥 병원 대기 시간 예측 서비스 (working)
 - ⏱ 대기 시간 예측 및 알림 제공
 - 🔗 https://github.com/jinkon9/FORHOS.git
 
-### 🤖 비인기 지역 명소 및 축제 알림 서비스
+### 🤖 비인기 지역 명소 및 축제 알림 서비스 (done)
 - 💬 AI 기반 지역 명소 및 축제 알림
 - 🔗 https://github.com/jinkon9/mental.git
 
-### 🚁 랜덤 주제 기반 일기 시스템
+### 🚁 랜덤 주제 기반 일기 시스템 (done)
 - 🧠 매일 다른 주제로 일기 작성 서비스
 - 🔗 https://github.com/jinkon9/Capston.git
 
