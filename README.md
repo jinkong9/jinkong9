@@ -1,55 +1,70 @@
-# 👋 Hi, I'm Seongjin
+<div align="center">
 
-### Frontend Developer (React / React Native)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,50:2563EB,100:14B8A6&text=Seongjin%20Jo&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20%26%20Spring%20Collaboration&descAlignY=58&descSize=15)
 
-🚀 사용자 경험을 고민하는 프론트엔드 개발자  
-📱 웹 & 모바일(Expo) 프로젝트 진행 중  
-🧠 알고리즘 / 자료구조 꾸준히 학습
+### 사용자 흐름을 읽고, 화면과 API 사이를 연결하는 개발자
 
-🔗 [포트폴리오 Notion](https://www.notion.so/28a2d5c639da80ef9e45f7b721a4bc9e)
+React 기반 프론트엔드를 중심으로 프로젝트를 만들고 있습니다.  
+기획 의도, 화면 흐름, API 구조를 함께 이해하면서 사용자가 자연스럽게 움직이는 서비스를 고민합니다.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/28a2d5c639da80ef9e45f7b721a4bc9e)
+[![GitHub](https://img.shields.io/badge/GitHub-jinkong9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jinkong9)
+[![BOJ](https://img.shields.io/badge/Algorithm-BOJ-0076C0?style=for-the-badge&logo=codeforces&logoColor=white)](https://solved.ac/profile/kbg08167)
 
-## 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
-
-## ⚡ State Management / Validation
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-000000?style=flat&logoColor=white)
-
-## 🛠 Version Control & Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+</div>
 
 ---
 
-## 📌 Projects
+## Tech Stack
 
-### 🏥 병원 대기 시간 예측 서비스 (working)
-- ⏱ 대기 시간 예측 및 알림 제공
-- 🔗 https://github.com/jinkon9/FORHOS.git
+<div align="center">
 
-### 🤖 비인기 지역 명소 및 축제 알림 서비스 (done)
-- 💬 AI 기반 지역 명소 및 축제 알림
-- 🔗 https://github.com/jinkon9/mental.git
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🚁 랜덤 주제 기반 일기 시스템 (done)
-- 🧠 매일 다른 주제로 일기 작성 서비스
-- 🔗 https://github.com/jinkon9/Capston.git
+</div>
+
+## Collaboration
+
+<div align="center">
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+</div>
 
 ---
 
-## 🧩 Algorithm
+## Projects
+
+| Project | Description | Links |
+| --- | --- | --- |
+| **FORHOS**<br/>병원 대기 시간 예측 서비스 | 진료 접수, 대기 순번, 예상 대기 시간을 한 흐름으로 연결한 병원 방문 보조 서비스입니다. 프론트엔드와 백엔드 API 흐름을 함께 이해하며 통합 경험을 정리했습니다. | [Frontend](https://github.com/jinkong9/FORHOS) · [Backend](https://github.com/jinkong9/FORHOS_Backend) · [Notion](https://www.notion.so/360de54b260480a99a42f6961a7ce7f8?pvs=1) |
+| **County-Side**<br/>지역 축제·명소 탐색 앱 | 지역 축제와 주변 명소를 카드 UI로 탐색하고, 챗봇으로 여행 질문까지 이어갈 수 있는 Expo 기반 React Native 앱입니다. | [GitHub](https://github.com/jinkong9/mental) · [Notion](https://www.notion.so/360de54b2604814e9d70c28d37ed6605?pvs=1) |
+| **Capston Design**<br/>랜덤 주제 기반 일기 서비스 | 매일 제공되는 랜덤 주제로 사용자가 더 쉽게 일기를 시작할 수 있도록 만든 React 기반 일기 작성 서비스입니다. | [GitHub](https://github.com/jinkong9/CapstonDesign) · [Notion](https://www.notion.so/360de54b26048144836acc3e2b57b0e6?pvs=1) |
+
+---
+
+## What I Care About
+
+- 사용자가 다음 행동을 자연스럽게 떠올릴 수 있는 화면 흐름
+- API 응답, 로딩, 실패 상태까지 고려한 프론트엔드 구현
+- 팀원이 같은 맥락을 볼 수 있도록 남기는 문서와 기록
+- AI 도구를 활용하되, 코드와 서비스 흐름은 직접 이해하는 개발 방식
+
+---
+
+## Algorithm
+
+<div align="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbg08167)](https://solved.ac/profile/kbg08167)
-- BOJ / SWEA  
 
----
-
+</div>
