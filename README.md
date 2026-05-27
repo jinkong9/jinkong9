@@ -1,13 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,50:2563EB,100:14B8A6&text=Seongjin%20Jo&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20%26%20Spring%20Collaboration&descAlignY=58&descSize=15)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
 
-### 사용자 흐름을 읽고, 화면과 API 사이를 연결하는 개발자
+### SeongJin, CHO GitHub
 
-React 기반 프론트엔드를 중심으로 프로젝트를 만들고 있습니다.  
-기획 의도, 화면 흐름, API 구조를 함께 이해하면서 사용자가 자연스럽게 움직이는 서비스를 고민합니다.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/28a2d5c639da80ef9e45f7b721a4bc9e)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/28a2d5c639da80ef9e45f7b721a4bc9e](https://www.notion.so/360de54b260480e3986de0d59c188e87))
 [![GitHub](https://img.shields.io/badge/GitHub-jinkong9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jinkong9)
 [![BOJ](https://img.shields.io/badge/Algorithm-BOJ-0076C0?style=for-the-badge&logo=codeforces&logoColor=white)](https://solved.ac/profile/kbg08167)
 
