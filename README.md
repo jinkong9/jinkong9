@@ -4,7 +4,7 @@
 
 ### SeongJin, CHO GitHub
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/28a2d5c639da80ef9e45f7b721a4bc9e](https://www.notion.so/360de54b260480e3986de0d59c188e87))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/360de54b260480e3986de0d59c188e87)
 [![GitHub](https://img.shields.io/badge/GitHub-jinkong9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jinkong9)
 [![BOJ](https://img.shields.io/badge/Algorithm-BOJ-0076C0?style=for-the-badge&logo=codeforces&logoColor=white)](https://solved.ac/profile/kbg08167)
 
