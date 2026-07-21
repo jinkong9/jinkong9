@@ -44,7 +44,7 @@
 | Project | Description | Links |
 | --- | --- | --- |
 | **FORHOS**<br/>병원 대기 시간 예측 서비스 | 진료 접수, 대기 순번, 예상 대기 시간을 한 흐름으로 연결한 병원 방문 보조 서비스입니다. 프론트엔드와 백엔드 API 흐름을 함께 이해하며 통합 경험을 정리했습니다. | [Frontend](https://github.com/jinkong9/FORHOS) · [Backend](https://github.com/jinkong9/FORHOS_Backend) · [Notion](https://www.notion.so/360de54b260480a99a42f6961a7ce7f8?pvs=1) |
-| **County-Side**<br/>지역 축제·명소 탐색 앱 | 지역 축제와 주변 명소를 카드 UI로 탐색하고, 챗봇으로 여행 질문까지 이어갈 수 있는 Expo 기반 React Native 앱입니다. | [GitHub](https://github.com/jinkong9/mental) · [Notion](https://www.notion.so/360de54b2604814e9d70c28d37ed6605?pvs=1) |
+| **HOME_SSAFY**<br/>공공데이터 기반 주거 의사결정 플랫폼 | 아파트 실거래 흐름, LH 공공임대 공고, 양도 게시판, 생활권 분석과 회원 금융 프로필을 하나의 사용자 흐름으로 연결한 주거 플랫폼입니다. | [Frontend](https://github.com/HOMEFIT-SSAFY/HOMEFIT_FRONT) · [Backend](https://github.com/HOMEFIT-SSAFY/HOMEFIT_BACK) |
 | **Capston Design**<br/>랜덤 주제 기반 일기 서비스 | 매일 제공되는 랜덤 주제로 사용자가 더 쉽게 일기를 시작할 수 있도록 만든 React 기반 일기 작성 서비스입니다. | [GitHub](https://github.com/jinkong9/CapstonDesign) · [Notion](https://www.notion.so/360de54b26048144836acc3e2b57b0e6?pvs=1) |
 
 ---
